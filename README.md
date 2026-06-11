@@ -14,7 +14,7 @@ Built with a black and gray palette, subtle contrast, and minimal visual noise.
 
 ### Canvas View
 
-![Void canvas preview](img/screenshot-canvas.png.png)
+![Void canvas preview](img/screenshot-canvas.png)
 
 ## About
 
