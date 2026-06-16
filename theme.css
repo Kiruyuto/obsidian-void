@@ -303,10 +303,26 @@ em,
 
 body.theme-dark .workspace-ribbon.mod-left,
 body.theme-dark .view-header,
-body.theme-dark .workspace-tab-header-container,
-body.theme-dark .titlebar-button-container,
-body.theme-dark .titlebar {
+body.theme-dark .workspace-tab-header-container {
     background: transparent;
+}
+
+body.theme-dark .titlebar-button-container,
+body.theme-dark .titlebar-button {
+    background: var(--void-bg-2);
+}
+
+body.theme-dark .titlebar-button:hover {
+    background: var(--void-bg-3);
+}
+
+body.theme-dark .sidebar-toggle-button,
+body.theme-dark .workspace-ribbon.mod-left {
+    background: var(--void-bg-2);
+}
+
+body.theme-dark .sidebar-toggle-button:hover {
+    background: var(--void-bg-3);
 }
 
 body.theme-dark .view-actions,
